@@ -1,2 +1,4 @@
 # Gaming-Lancher
-I am creating my own game lancher in javascript, this is my first project so please be understanding.
+Stworzyłem lancher do gier w Javascript, to mój pierwszy projekt więc proszę o wyrozumiałosć 
+
+Do odpalenia projektu wymagany jest Node.js + eletron bez niego projekt nie bedzie działać.
